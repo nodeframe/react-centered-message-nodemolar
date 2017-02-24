@@ -1,5 +1,5 @@
 {
-  "name": "nfs-react-component-creator-boilerplate",
+  "name": "react-centered-message-nodemolar",
   "version": "1.0.0",
   "description": "bolier plate startup for creating new react component",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "author": "Nodeframe Solution Co.,Ltd.",
   "license": "ISC",
   "dependencies": {
+    "classnames": "^2.2.5",
     "react": "15.4.1",
     "react-dom": "15.4.1"
   },
@@ -24,5 +25,9 @@
     "raw-loader": "0.5.1",
     "style-loader": "0.13.1",
     "webpack": "1.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-centered-message-nodemolar"
   }
 }

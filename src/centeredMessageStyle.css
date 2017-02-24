@@ -1,0 +1,12 @@
+.centeredMessageWrap {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.centeredMessageWrap .centeredMessageContent {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+}
